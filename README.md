@@ -118,6 +118,15 @@ When running successfully, you should see:
 Ran 2 tests in X.XXXs
 OK
 ```
+---
+
+## Preview
+
+![Result Preview](https://github.com/kyah-Andy/Medical-Data-Visualizer/blob/main/catplot.png)
+
+![Result Preview](https://github.com/kyah-Andy/Medical-Data-Visualizer/blob/main/heatmap.png)
+
+---
 **Categorical Plot**
 - Count plots for health/lifestyle features
 - Split by cardiovascular disease
