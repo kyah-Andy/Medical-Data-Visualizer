@@ -1,6 +1,18 @@
+
+
 # 🏥 Medical Data Visualizer
 
 This project visualizes medical examination data using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**. It explores the relationship between lifestyle factors, body measurements, blood markers, and the presence of cardiovascular disease.
+
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Yes-blue)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-green)
+![Visualization](https://img.shields.io/badge/Visualization-Seaborn%20%2F%20Matplotlib-orange)
+---
+## Preview
+
+![Result Preview](https://github.com/kyah-Andy/Medical-Data-Visualizer/blob/main/catplot.png)
+
+![Result Preview](https://github.com/kyah-Andy/Medical-Data-Visualizer/blob/main/heatmap.png)
 
 ---
 
@@ -120,13 +132,7 @@ OK
 ```
 ---
 
-## Preview
 
-![Result Preview](https://github.com/kyah-Andy/Medical-Data-Visualizer/blob/main/catplot.png)
-
-![Result Preview](https://github.com/kyah-Andy/Medical-Data-Visualizer/blob/main/heatmap.png)
-
----
 **Categorical Plot**
 - Count plots for health/lifestyle features
 - Split by cardiovascular disease
@@ -140,3 +146,6 @@ OK
 
 ## 👨‍💻 Author
 **Andy Razon**
+
+📜 License
+This project is part of the freeCodeCamp curriculum and is intended for educational purposes.
